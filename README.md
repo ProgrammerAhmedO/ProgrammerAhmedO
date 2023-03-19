@@ -1,7 +1,33 @@
 <h1 align="center">Hi 👋, I'm ahmed osama</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerahmedo&label=Profile%20views&color=0e75b6&style=flat" alt="programmerahmedo" /> </p>
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class BackEnd_Developer:
+
+    def __init__(self):
+        self.name = "Ahmed Osama"
+        self.role = "Back-End Developer"
+        self.language_spoken = ["Arabic", "English"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = BackEnd_Developer()
+me.say_hi()
+```
 
 - 🔭 I’m currently working on **Fitness App**
 
