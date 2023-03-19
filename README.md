@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm ahmed osama</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerahmedo&label=Profile%20views&color=0e75b6&style=flat" alt="programmerahmedo" /> </p>
-
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
